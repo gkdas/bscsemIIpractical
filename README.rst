@@ -10,3 +10,13 @@ Identification of pure Organic Compounds
 
 #. Glycerol
 #. Formic acid
+#. Acetic acid
+#. Aniline
+#. Nitrobenzene
+#. Benzyl alcohol
+#. Succinic acid
+#. Tartaric acid
+#. Salicylic acid
+#. Resorcinol
+#. Glucose
+#. Cane sugar
