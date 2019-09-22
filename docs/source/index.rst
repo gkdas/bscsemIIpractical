@@ -11,18 +11,12 @@ Welcome to Identification of Organic Compounds's documentation!
 Liquid Sample (Methanol, Ethanol, Acetone, Glycerol)
 ####################################################
 
----------------------
-1. Physical Character
----------------------
-        * State of aggregation
-        * Appearance
-        * Color
-        * Smell
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :numbered:
 
+   character.rst
    prelim.rst
 
 Indices and tables

@@ -20,3 +20,6 @@ Identification of pure Organic Compounds
 #. Resorcinol
 #. Glucose
 #. Cane sugar
+
+
+For more detailed description see 'here<https://bscsemiipractical.readthedocs.io/en/latest/>'
