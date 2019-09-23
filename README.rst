@@ -22,4 +22,4 @@ Identification of pure Organic Compounds
 #. Cane sugar
 
 
-For more detailed description see 'here<https://bscsemiipractical.readthedocs.io/en/latest/>'
+For more detailed description see 'here<https://bscsemiipractical.readthedocs.io/en/latest/>'_
