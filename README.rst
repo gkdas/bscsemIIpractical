@@ -24,5 +24,5 @@ Identification of pure Organic Compounds
 
 For detailed experiment see here_.
 
-.. _here: https://bscsemiipractical.readthedocs.io/en/latest/_
+.. _here: https://bscsemiipractical.readthedocs.io/en/latest/
 
