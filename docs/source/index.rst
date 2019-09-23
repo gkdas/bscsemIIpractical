@@ -18,10 +18,8 @@ Liquid Sample (Methanol, Ethanol, Acetone, Glycerol)
 
    character.rst
    prelim.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   solubility.rst
+   acidity.rst
+   analysis.rst
+   confirm.rst
+   conclusion.rst
