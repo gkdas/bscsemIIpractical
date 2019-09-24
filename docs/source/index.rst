@@ -16,24 +16,6 @@ Liquid Sample (Methanol, Ethanol, Acetone, Glycerol)
    :caption: Contents:
    :numbered:
 
-   character.rst
-   prelim.rst
-   solubility.rst
-   acidity.rst
-   analysis.rst
-   confirm.rst
-
-
-.. include:: character.rst
-
-.. include:: prelim.rst
-
-.. include:: solubility.rst
-
-.. include:: acidity.rst
-
-.. include:: analysis.rst
-
-.. include:: confirm.rst
-
+   liq_sol_neu/liq_sol_neu.rst
+   liq_sol_acidic/liq_sol_acidic.rst
 
