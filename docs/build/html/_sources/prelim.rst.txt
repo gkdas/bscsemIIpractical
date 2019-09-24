@@ -1,7 +1,10 @@
 
 --------------------
-2. Preliminary tests
+Preliminary tests
 --------------------
+
+.. table:: Heating in a test tube
+        :width: 30 40 30
 
 +-------------------------+-------------------------+----------------------+
 |      Experiment         |     Observation         |    Inference         |

@@ -22,7 +22,6 @@ Liquid Sample (Methanol, Ethanol, Acetone, Glycerol)
    acidity.rst
    analysis.rst
    confirm.rst
-   conclusion.rst
 
 
 ---------------------
@@ -38,9 +37,6 @@ Physical Character
 --------------------
 Preliminary tests
 --------------------
-
-.. table:: Heating in a test tube
-        :width: 30 40 30
 
 +-------------------------+-------------------------+----------------------+
 |      Experiment         |     Observation         |    Inference         |
@@ -98,5 +94,9 @@ Preliminary conclusion
 
 From the experiments of solubility and acidity it appears that the given
 sample is Methanol, Ethanol, Acetone or Glycerol
+
+.. include:: analysis.rst
+
+.. include:: confirm.rst
 
 
