@@ -6,7 +6,7 @@ Systematic analysis (For sample soluble in water and non-acidic)
 +-------------------------+-------------------------+----------------------+
 |      Experiment         |     Observation         |    Inference         |
 +=========================+=========================+======================+
-| Add 2 mol of iodine     | - A pale yellow ppt.    |   - May be ethanol   |
+| Add 2 ml  of iodine     | - A pale yellow ppt.    |   - May be ethanol   |
 | solution to one or two  |                         |     or acetone       |
 | drops of original       | - No yellow precipitate |   - May be methanol  |
 | sample. Add NaOH soln to|   or glycerol           |     or glycerol      |
