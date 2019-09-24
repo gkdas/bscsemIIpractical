@@ -1,7 +1,7 @@
 
-####################################################
-Liquid Sample (Methanol, Ethanol, Acetone, Glycerol)
-####################################################
+########################################
+Liquid Sample (Formic acid, Acetic acid)
+########################################
 
 
 .. include:: character.rst
