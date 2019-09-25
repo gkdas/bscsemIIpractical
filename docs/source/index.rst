@@ -7,15 +7,16 @@
 Welcome to Identification of Organic Compounds's documentation!
 ===============================================================
 
-####################################################
-Liquid Sample (Methanol, Ethanol, Acetone, Glycerol)
-####################################################
+#############
+Liquid Sample
+#############
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
    :numbered:
 
    liq_sol_neu/liq_sol_neu.rst
    liq_sol_acidic/liq_sol_acidic.rst
+   liq_insoluble/liq_insoluble.rst
 
