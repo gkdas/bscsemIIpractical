@@ -10,6 +10,7 @@ Preliminary tests
 | the sample in a test    |   with a smell of burnt |   tartaric acid      |
 | tube                    |   sugar.                |                      |
 |                         | - No charring but       |                      |
+|                         |                         |                      |
 |                         |   - Melts with smell of | - May be glucose     |
 |                         |     burnt sugar         |                      |
 |                         |   - Sublimes with       | - May be salicylic   |

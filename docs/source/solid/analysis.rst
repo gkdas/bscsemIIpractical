@@ -12,7 +12,8 @@ Systematic analysis
 | HgO(yellow) + 20ml conc.|   potassium permanganate|     or glycerol      |
 | sulfuric acid + 100 ml  |   solution in its warm  |                      |
 | water, then boil cool   |   condition.            |                      |
-| and filter              |   - Color of            |    - Tartaric acid   |
+| and filter              |                         |                      |
+|                         |   - Color of            |    - Tartaric acid   |
 |                         |     permanganate        |                      |
 |                         |     disappears          |                      |
 |                         |   - Color of            |    - Succinic acid   |

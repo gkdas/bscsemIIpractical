@@ -97,19 +97,42 @@ For Case Sugar
 | Warm a mixture of 2 ml of| A deep wine red color   |     Cane Sugar       |
 | compound solution 2ml of | with ppt.In alcohol it  |                      |
 | HCl and a pinch of       | gives a deep wine red   |                      |
-| resorcinol on a water    | solution                |                      |
-| bath for 2 minutes       |                         |                      |
+| resorcinol on a water    | solution.               |                      |
+| bath for 2 minutes.      |                         |                      |
 +--------------------------+-------------------------+                      |
 | Hydrolyze a small amount |                         |                      |
 | of the sample with 2-3   |                         |                      |
 | ml of dilute HCl on a    |                         |                      |
 | water bath for a few     |                         |                      |
 | minutes. Perform         |                         |                      |
+|                          |                         |                      |
 |  - Fehling's test        |   - Orange red ppt.     |                      |
+|                          |                         |                      |
 |  - Tollens test          |   - Silver mirror       |                      |
 +--------------------------+-------------------------+----------------------+
 
+For resoncinol
+--------------
 
++--------------------------+-------------------------+-----------------------+
+| Heat the mixture of      | A red solution turns    |   Resorcinol          |
+| aqueous solution of the  | into violet red on      |                       |
+| sample slowly with 1 ml  | shaking. No fluorescence|                       |
+| NaOH (aq.) and 1 drop of | on dilution with water  |                       |
+| chloroform               |                         |                       |
++--------------------------+-------------------------+-----------------------+
+| Heat 1 gm of sample with | A red brown color of the|   Resorcinol          |
+| 0.5 g phthalic anhydride | solution                |                       |
+| and 2 drops of conc.     |                         |                       |
+| sulfuric acid in dry test|                         |                       |
+| tube                     |                         |                       |
+|                          |                         |                       |
+| Cool the whole mixture   | A yellowish green       |                       |
+| and dilute it with 10ml  | fluorescence            |                       |
+| water. Add 25 to 30 ml of|                         |                       |
+| aq NaOH solution to make |                         |                       |
+| it alkaline              |                         |                       |
++--------------------------+-------------------------+-----------------------+
 
 
 ----------

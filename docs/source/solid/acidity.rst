@@ -21,6 +21,7 @@ Preliminary conclusion
 
 From the experiments of solubility and acidity it appears that the given
 sample is 
+
    - Tartaric acid, Succinic acid or Salicylic acid
    - Glucose or cane sugar
 
