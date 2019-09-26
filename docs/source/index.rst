@@ -19,4 +19,5 @@ Liquid Sample
    liq_sol_neu/liq_sol_neu.rst
    liq_sol_acidic/liq_sol_acidic.rst
    liq_insoluble/liq_insoluble.rst
+   solid/solid.rst
 
