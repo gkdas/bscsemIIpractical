@@ -7,6 +7,7 @@
 Welcome to Identification of Organic Compounds's documentation!
 ===============================================================
 
+
 #############
 Liquid Sample
 #############
@@ -19,5 +20,16 @@ Liquid Sample
    liq_sol_neu/liq_sol_neu.rst
    liq_sol_acidic/liq_sol_acidic.rst
    liq_insoluble/liq_insoluble.rst
+
+############
+Solid Sample
+############
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+   :numbered:
+
    solid/solid.rst
+
 
